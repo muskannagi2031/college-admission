@@ -72,5 +72,22 @@ college-admission/
 
 <img align="center" src="screenshot1.png" alt="form" />
 
-<img align="center" src="screenshot2.png" alt="form" />
+<img align="center" src="screenshot2.png" alt="result" />
 
+
+-------------------------------------------------------------------------------
+
+# 2d Array python 
+
+<img align="center" src="2dArray.jpg" alt="Python output" />
+
+
+-------------------------------------------------------------------------------
+
+
+# Linked lIst C++
+
+<img align="center" src="linkedList1.jpg" alt="linkedList output" />
+<img align="center" src="linkedList2.jpg" alt="linkedList output" />
+<img align="center" src="linkedList3.jpg" alt="linkedList output" />
+<img align="center" src="linkedList4.jpg" alt="linkedList output" />

@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+<head>
+    <title>Admission Result</title>
+</head>
+<body>
+    <h1>Admission Result</h1>
+    <p>Candidate Name: {{ name }}</p>
+    {% if selected %}
+        <p>Congratulations! You are selected to apply for college.</p>
+    {% else %}
+        <p>Sorry, you are not eligible to apply for college.</p>
+    {% endif %}
+</body>
+</html>

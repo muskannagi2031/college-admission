@@ -65,7 +65,6 @@ college-admission/
 │   ├── result.html
 ├── app.py
 ├── create_db.py
-├── requirements.txt
 └── README.md
 ```
 
